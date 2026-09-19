@@ -1,0 +1,10 @@
+{
+    "Name": "[CP] WeirdRootJingle",
+    "Author": "Evgen1310",
+    "Version": "1.0.0",
+    "Description": "Film which was shown in Clair`s 14 hearts event.",
+    "UniqueID": "Evgen1310.WeirdRootJingle.CP",
+    "ContentPackFor": {
+        "UniqueID": "Pathoschild.ContentPatcher"
+    }
+}

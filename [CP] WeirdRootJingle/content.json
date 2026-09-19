@@ -1,0 +1,33 @@
+{
+    "Format": "2.8.0",
+    "Changes": [
+        // snd_ominous.ogg
+        {
+            "Action": "EditData",
+            "Target": "Data/AudioChanges",
+            "Entries": {
+                "snd_ominous": {
+                    "ID": "snd_ominous",
+                    "Category": "Sound",
+                    "FilePaths": [ "{{AbsoluteFilePath: assets/snd_ominous_music.ogg}}" ],
+                    "StreamedVorbis": false,
+                    "Looped": false
+                }
+            }
+        },
+        // snd_ominous_cancel.ogg
+        {
+            "Action": "EditData",
+            "Target": "Data/AudioChanges",
+            "Entries": {
+                "snd_ominous_cancel": {
+                    "ID": "snd_ominous_cancel",
+                    "Category": "Sound",
+                    "FilePaths": [ "{{AbsoluteFilePath: assets/snd_ominous_cancel_music.ogg}}" ],
+                    "StreamedVorbis": false,
+                    "Looped": false
+                }
+            }
+        }
+    ]
+}
