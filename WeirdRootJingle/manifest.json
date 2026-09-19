@@ -2,11 +2,11 @@
   "Name": "WeirdRootJingle",
   "Author": "Evgen1310",
   "Version": "1.0.0",
-  "Description": "WeirdRootJingle",
+  "Description": "Adds WeirdRootJingle for ThornsRing",
   "UniqueID": "Evgen1310.WeirdRootJingle",
   "EntryDll": "WeirdRootJingle.dll",
   "MinimumApiVersion": "4.0.0",
-  "UpdateKeys": [52608],
+  "UpdateKeys": [ "Nexus:52608" ],
   "Dependencies": [
     {
       "UniqueID": "Evgen1310.WeirdRootJingle.CP",
